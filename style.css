@@ -1,0 +1,18 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: #ccc;
+    text-align: center;
+    font-weight: 800;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.origin {
+    color: #009900;
+}
